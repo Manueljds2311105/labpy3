@@ -68,7 +68,7 @@ for bulan in range (1, 9):
 print(f"\nTotal keuntungan selama 8 bulan adalah: Rp {total_keuntungan:.0f} ")
 ```
 ## Hasil Program
-![foto]()
+![foto](https://github.com/Manueljds2311105/foto/blob/71b789ae0bd785dd01dcd67b0857dff8bfb3c279/latihan2py.png)
 Penjelasan:
 
 ## ATM Sederhana
