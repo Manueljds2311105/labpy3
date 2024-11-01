@@ -9,7 +9,7 @@ for bulan in range (1, 9):
     elif bulan <= 7:
         laba = 0.05
     else:
-        laba = 0.02
+        laba = 0.03
 
     laba_bulan_ini = modal * laba
     total_keuntungan += laba_bulan_ini
