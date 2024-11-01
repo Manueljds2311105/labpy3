@@ -1,5 +1,11 @@
 # Tugas Praktikum 3
+Nama: Manuel Johansen Dolok Saribu
 
+Nim: 312410493
+
+Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.,
+
+Mata Kuliah: Bahasa Pemograman
 ## latihan1
 ```python
 from random import random
